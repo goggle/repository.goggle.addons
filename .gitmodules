@@ -1,0 +1,3 @@
+[submodule "plugin.video.srfplaytv"]
+	path = plugin.video.srfplaytv
+	url = git@github.com:goggle/plugin.video.srfplaytv.git
